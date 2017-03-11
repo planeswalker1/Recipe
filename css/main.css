@@ -1,0 +1,16 @@
+h1 span, h2 span {
+  background-color: #F0F0F0;
+  color: #A4A400;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+  text-decoration: underline;
+}
+
+h1 {
+ font-size: 22pt;
+ text-align: center;
+}
+
+h2 {
+  font-size:  18pt;
+  font-weight: normal;
+}
