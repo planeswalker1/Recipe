@@ -11,8 +11,12 @@ h1 {
 }
 
 .prep {
-  list-style-type: none;
   padding: 0;
+}
+
+.prep li {
+  list-style-type: none;
+  list-style-image: none;
 }
 
 h2 {
