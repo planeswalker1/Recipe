@@ -27,3 +27,7 @@ h2 {
 ul li {
   list-style-image: url(../img/pie-icon.gif);
 }
+
+ol li span {
+  font-weight: bold;
+}
