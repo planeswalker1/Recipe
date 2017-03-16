@@ -1,5 +1,5 @@
 body {
-  background-image: url(../img/silverware.jpg) repeat repeat;
+  background-image: url(../img/silverware.jpg);
 }
 
 h1 span, h2 span {
@@ -14,11 +14,11 @@ h1 {
  text-align: center;
 }
 
-.prep {
+.prep, .nav  {
   padding: 0;
 }
 
-.prep li {
+.prep li, .nav  li {
   list-style-type: none;
   list-style-image: none;
 }
@@ -38,4 +38,8 @@ ol li span {
 
 div {
   background-color: #FFFFA8;
+}
+
+.nav li a {
+  color: #A4A400;
 }
