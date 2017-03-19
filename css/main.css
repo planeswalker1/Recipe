@@ -7,6 +7,10 @@ body {
   margin: 0;
 }
 
+h1, h2 {
+  letter-spacing: 0.25em;
+}
+
 h1 span, h2 span {
   background-color: #F0F0F0;
   color: #A4A400;
