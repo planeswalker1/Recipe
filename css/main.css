@@ -47,6 +47,8 @@ ol li span {
 
 div {
   background-color: #FFFFA8;
+  width: 90%;
+  margin: auto;
 }
 
 .nav li a {
